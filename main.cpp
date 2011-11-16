@@ -37,7 +37,7 @@ int diff(char a[], char b[]){ //manj,veci
 
 bool check_date(char *datum){//DDMMYYYY
      if(strlen(datum)!=8){
-        cout << endl << "Datum mora biti oblika DDMMYYY" << endl;
+        cout << endl << "Datum mora biti oblika DDMMYYYY" << endl;
         cout << "npr. 01082010" << endl << endl;
         return true;                     
      }
