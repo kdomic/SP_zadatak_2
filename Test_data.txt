@@ -22,6 +22,7 @@ Novine
    - PC Chip	01032011	01042011
    - Vidi	01032010	01042010
 
-100, 101, 201, 501
+Zapisi koji se ne ispisuju ni u jednom slucaju:
+	100, 101, 201, 501
 
 
