@@ -1,0 +1,6 @@
+void sve(tlist *list){
+     static tlist *last = list;
+     last = list->next;
+     if(last->next)sve(last);
+     ispis(last->data);
+}

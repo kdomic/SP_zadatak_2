@@ -1,0 +1,27 @@
+Povrce
+   - Krumpir	18042011	18052011
+   - Zelje	08122011	30122011
+   - Luk	22092010	30102010
+
+Voce
+   - Jabuke	20092010	20102010
+   - Kruske	11112011	21112011
+   - Sljuve	03032010	04042010
+
+Mlijecni proizvod
+   - Mlijeko	15092011	20092011
+   - Sir	01012011	11012011
+   - Jogurt	09092011	18092011
+
+Bezalkoholno pice
+   - Gusti	12122010	12012011
+   - Multivitamin 02022010	03032010
+   - Coca Cola	18042010	18052010
+Novine
+   - Bug	01032010	01042010
+   - PC Chip	01032011	01042011
+   - Vidi	01032010	01042010
+
+100, 101, 201, 501
+
+
